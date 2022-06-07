@@ -1,1 +1,2 @@
-Trying pushing a new file to remote repository.
+Trying to pushing a new file to remote repository.
+trying to pull a file from remote to local.
